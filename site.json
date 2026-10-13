@@ -2,7 +2,7 @@
   "lang": "es-MX",
   "brand": {
     "name": "Kilsafran",
-    "logo": "imagenes/web/logo.png",
+    "logo": "imagenes/web/logo-emblem.png",
     "show_name": true,
     "colors": { "primary": "#3f9b0b", "secondary": "#9dcd06", "accent": "#fbcc07" },
     "theme": "light",
@@ -10,17 +10,17 @@
     "radius": "round"
   },
   "seo": {
-    "title": "Kilsafran | Entrega de frutas y verduras frescas en CDMX",
+    "title": "Kilsafran | Frutas, verduras, abarrotes y semillas con entrega en CDMX",
     "description": "Surtimos restaurantes y negocios con frutas y verduras frescas, bien empacadas y entregadas hasta tu puerta. Haz tu pedido por WhatsApp.",
     "keywords": ["frutas y verduras", "entrega de frutas y verduras", "proveedor para restaurantes", "verduras frescas CDMX", "distribuidora de frutas y verduras"],
     "business_type": "LocalBusiness",
     "area": "Ciudad de México y área metropolitana",
-    "og_image": "imagenes/web/hero-frutas-verduras.jpg"
+    "og_image": "imagenes/web/hero-surtido.jpg"
   },
   "contact": {
-    "whatsapp": "5543252885",
-    "message": "Hola Kilsafran, quiero hacer un pedido de frutas y verduras.",
-    "phone": "56 2132 5939",
+    "whatsapp": "5543242885",
+    "message": "Hola Kilsafran, quiero hacer un pedido.",
+    "phone": "56 2132 5932",
     "float_label": "¿Hacemos tu pedido?"
   },
   "header_cta": { "label": "Quiero mi pedido", "href": "#contacto" },
@@ -34,7 +34,7 @@
     "cta2": { "label": "Ver qué ofrecemos", "href": "#servicios" },
     "badges": ["Fruta y verdura fresca", "Entrega a restaurantes y negocios", "Pedidos directos por WhatsApp"],
     "chips": ["Producto fresco", { "text": "Entrega a tu puerta", "icon": "truck" }, "Pedidos por WhatsApp"],
-    "image": { "src": "imagenes/web/hero-frutas-verduras.jpg", "alt": "Frutas y verduras frescas de mil colores: naranjas, pimientos, aguacates y piñas" }
+    "image": { "src": "imagenes/web/hero-surtido.jpg", "alt": "Surtido de frutas y verduras frescas: sandía, piña, plátano, pimientos, naranjas, jitomates y hortalizas" }
   },
   "sections": [
     { "type": "marquee", "items": ["Frutas frescas", "Verduras frescas", "Jitomate", "Pimientos", "Brócoli", "Zanahoria", "Plátano", "Manzana", "Lechuga", "Limón", "Entrega a tu puerta"] },
@@ -57,7 +57,7 @@
         "Nos encargamos de seleccionar, empacar y llevar tu pedido hasta la puerta, para que tu cocina nunca se quede sin lo esencial."
       ],
       "points": ["Pedidos directos por WhatsApp", "Producto fresco, seleccionado y empacado", "Entrega hasta la puerta de tu negocio"],
-      "image": { "src": "imagenes/web/camioneta-envios.jpg", "alt": "Camioneta blanca de Kilsafran con el mensaje Envíos hasta la puerta de tu restaurante" },
+      "image": { "src": "imagenes/web/camioneta-nueva.jpg", "alt": "Camioneta blanca de Kilsafran con el logotipo, el lema Del campo a tu hogar y los productos: frutas, verduras, abarrotes y semillas" },
       "badge": { "value": "Fresco", "label": "Del campo a tu hogar" },
       "cta": { "label": "Cuéntanos qué necesitas", "href": "wa" }
     },
@@ -120,8 +120,8 @@
     "text": "Kilsafran SA de CV · Del campo a tu hogar. Frutas y verduras frescas con entrega a restaurantes y negocios.",
     "social": [ { "name": "instagram", "href": "https://www.instagram.com/kilsafran_sa_de_cv/" } ],
     "links": [
-      { "label": "WhatsApp 55 4325 2885", "href": "https://wa.me/525543252885" },
-      { "label": "Tel. 56 2132 5939", "href": "tel:+525621325939" }
+      { "label": "WhatsApp 55 4324 2885", "href": "https://wa.me/525543242885" },
+      { "label": "Tel. 56 2132 5932", "href": "tel:+525621325932" }
     ]
   },
   "custom_css": ".kv{display:grid;gap:2.5rem;align-items:center}@media(min-width:900px){.kv{grid-template-columns:1.1fr .9fr;gap:4rem}}.kv__copy .lead{margin-top:1.1rem}.kv__copy .btn{margin-top:1.6rem}.about__media .frame>img{--ar:888/722!important}.brand img{height:3rem;max-width:none}.kv__media{justify-self:center;width:min(100%,320px);aspect-ratio:9/16;border-radius:2rem;overflow:hidden;border:6px solid var(--surface);box-shadow:var(--shadow-lg)}.kv__media video{width:100%;height:100%;object-fit:cover;display:block}.clients{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:1rem}.clients .card{align-items:center;justify-content:center;text-align:center;gap:.7rem}.clients img{width:100%;max-width:200px;aspect-ratio:4/3;object-fit:contain;border-radius:.8rem}.clients span{font:600 .9rem var(--font-display);color:var(--muted)}@media(min-width:900px){.kv--rev{grid-template-columns:.9fr 1.1fr}}.kv h3{font-size:1.05rem;margin-top:1.5rem}.pills{list-style:none;margin:.8rem 0 0;padding:0;display:flex;flex-wrap:wrap;gap:.5rem}.pills li{padding:.5rem 1rem;border-radius:99px;background:var(--surface);border:1px solid var(--border-strong);font:600 .9rem var(--font-display);transition:transform .4s var(--ease),border-color .4s,background .4s}.pills li:hover{transform:translateY(-2px);border-color:rgb(var(--glow-rgb)/.6);background:rgb(var(--glow-rgb)/.1)}.orbit{--s:min(78vw,26rem);position:relative;width:var(--s);aspect-ratio:1;margin-inline:auto;display:grid;place-items:center}.orbit__logo{position:relative;z-index:2;width:50%;border-radius:50%;background:#fff;padding:.6rem;box-shadow:0 24px 70px -22px rgb(var(--glow-rgb)/.7),0 0 0 8px rgb(var(--glow-rgb)/.1)}.orbit__ring{position:absolute;inset:0;border-radius:50%;border:1.5px dashed rgb(var(--glow-rgb)/.4);animation:orbitSpin 42s linear infinite}.orbit__ring--2{inset:17%;border-style:solid;border-color:rgb(var(--glow-rgb)/.16);animation-direction:reverse;animation-duration:30s}.orbit__item{position:absolute;top:50%;left:50%;width:3.5rem;height:3.5rem;margin:-1.75rem;display:grid;place-items:center;border-radius:50%;background:#fff;box-shadow:var(--shadow);transform:rotate(var(--a)) translateY(calc(var(--s) / -2)) rotate(calc(var(--a) * -1))}.orbit__item span{font-size:1.9rem;line-height:1;display:block;animation:orbitSpin 42s linear infinite reverse}@keyframes orbitSpin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.orbit__ring,.orbit__item span{animation:none}}"
