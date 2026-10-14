@@ -3,7 +3,7 @@ const SITE = {
   "loader": { "duration": 2100 },
   "smooth": true,
   "wa": {
-    "number": "525543242885",
+    "number": "525621325932",
     "greeting": "Hola Kilsafran, quiero hacer un pedido."
   },
   "labels": { "opening": "Abriendo WhatsApp…" }
